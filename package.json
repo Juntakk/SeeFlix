@@ -2,6 +2,7 @@
   "name": "seeflix",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://seeflix.netlify.app",
   "type": "module",
   "scripts": {
     "start": "react-scripts start",
