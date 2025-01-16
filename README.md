@@ -59,10 +59,3 @@
 <h4>4. Responsive Layout</h4>
 <p>The app is built with a mobile-first approach, ensuring it looks great on all screen sizes. Whether on a desktop or mobile device, the layout adjusts to provide an optimal viewing experience. This responsiveness is achieved using CSS media queries and flexible layouts.</p>
 
-<h3>Installation</h3>
-<ul>
-  <li>Clone the repository: <code>git clone https://github.com/your-username/seeflix.git</code></li>
-  <li>Navigate to the project folder: <code>cd seeflix</code></li>
-  <li>Install dependencies: <code>npm install</code></li>
-  <li>Start the development server: <code>npm start</code></li>
-</ul>
