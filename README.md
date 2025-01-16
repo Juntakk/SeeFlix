@@ -7,7 +7,7 @@ SeeFlix is a dynamic web application for movie enthusiasts. It allows users to b
 <table>
   <tr>
     <td>
-      <img src="src/assets/screenshots/seeflix1.png" alt="Main Page" width="222">
+      <img src="src/assets/screenshots/seeflix1.png" alt="Main Page" width="555">
     </td>
     <td>
       <b>Main Page:</b>
@@ -18,7 +18,7 @@ SeeFlix is a dynamic web application for movie enthusiasts. It allows users to b
   </tr>
   <tr>
     <td>
-      <img src="src/assets/screenshots/seeflix2.png" alt="Main Page" width="222">
+      <img src="src/assets/screenshots/seeflix2.png" alt="Main Page" width="555">
     </td>
     <td>
       <b>Movie Details Page:</b>
